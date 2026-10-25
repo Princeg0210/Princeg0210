@@ -1,21 +1,21 @@
 {
   "username": "Princeg0210",
-  "generated_at": "2026-10-24T11:11:08Z",
+  "generated_at": "2026-10-25T11:40:33Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 2075,
-  "active_days": 324,
+  "total_contributions": 2041,
+  "active_days": 318,
   "avg_per_active_day": 6.4,
   "current_streak": {
-    "length": 16,
+    "length": 17,
     "start": "2026-10-08",
-    "end": "2026-10-23"
+    "end": "2026-10-24"
   },
   "longest_streak": {
-    "length": 290,
-    "start": "2025-10-19",
+    "length": 283,
+    "start": "2025-10-26",
     "end": "2026-08-04"
   },
   "best_day": {
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 65
+      "total": 30
     },
     {
       "month": "2025-11",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 369
+      "total": 370
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 5,
-      "level": 1
-    },
-    {
-      "date": "2025-10-20",
-      "count": 5,
-      "level": 1
-    },
-    {
-      "date": "2025-10-21",
-      "count": 5,
-      "level": 1
-    },
-    {
-      "date": "2025-10-22",
-      "count": 5,
-      "level": 1
-    },
-    {
-      "date": "2025-10-23",
-      "count": 5,
-      "level": 1
-    },
-    {
-      "date": "2025-10-24",
-      "count": 5,
-      "level": 1
-    },
-    {
-      "date": "2025-10-25",
-      "count": 5,
-      "level": 1
-    },
     {
       "date": "2025-10-26",
       "count": 5,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-10-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
